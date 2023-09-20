@@ -1,0 +1,3 @@
+palace, 경복궁
+swimming pool, 수영장
+bookstore, 서점

@@ -9,6 +9,9 @@ public class Main {
 	static String directoryName;
 	
 	static Scanner in;
+	
+	static ArrayList<String> englishWords;
+	static ArrayList<String> koreanWords;
 
 	public static void main(String[] args) throws FileNotFoundException, IOException {
 		// TODO Auto-generated method stub
@@ -23,8 +26,8 @@ public class Main {
 		FileReader fr = new FileReader(directoryName + "/" + testingFileName);
 		BufferedReader br = new BufferedReader(fr);
 		
-		ArrayList<String> englishWords = new ArrayList<>();
-		ArrayList<String> koreanWords = new ArrayList<>();
+		englishWords = new ArrayList<>();
+		koreanWords = new ArrayList<>();
 		
 		String line;
 		while((line = br.readLine()) != null) {
@@ -33,6 +36,10 @@ public class Main {
 			koreanWords.add(words[1]);
 		}
 		
+		testVocab();
+	}
+	
+	public static void testVocab() throws IOException {
 		ArrayList<Integer> randomlyGeneratedList = new ArrayList();
 		for(int i = 0; i < englishWords.size(); i++) {
 			randomlyGeneratedList.add(i);
@@ -64,6 +71,14 @@ public class Main {
 			saveIncorrectWords(incorrectEnglishWords, incorrectKoreanWords);
 		}
 		
+		System.out.println("try again?");
+		answer = in.nextLine();
+		if(answer.toLowerCase().equals("yes")) {
+			for(int i = 0; i < 10; i++) {
+				System.out.println();
+			}
+			testVocab();
+		}
 	}
 	
 	public static void saveIncorrectWords(ArrayList<String> incorrectEnglishWords, ArrayList<String> incorrectKoreanWords) throws IOException {

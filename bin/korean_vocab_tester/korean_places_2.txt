@@ -1,0 +1,14 @@
+classroom, 교실
+movie theater, 영화관
+embassy, 대사관
+library, 도서관
+stationary store, 문구점
+hospital, 병원
+bookstore, 서점
+swimming pool, 수영장
+restaurant, 식당
+bank, 은행
+school, 학교
+bathroom, 화장실
+office, 회사
+palace, 경복궁

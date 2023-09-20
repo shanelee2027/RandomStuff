@@ -1,0 +1,8 @@
+bookstore, 서점
+swimming pool, 수영장
+restaurant, 식당
+bank, 은행
+school, 학교
+bathroom, 화장실
+office, 회사
+palace, 경복궁
