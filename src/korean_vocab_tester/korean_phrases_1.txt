@@ -1,0 +1,9 @@
+hello (formal), 안녕하세요
+there is, 있어요
+there is not, 없어요
+nice to meet you (formal), 반갑습니다
+how old are you, 몇 살이에요
+how many, 몇개
+thank you (formal), 감사합니다
+sorry, 미인해요
+where is here, 여기가 어디예요
