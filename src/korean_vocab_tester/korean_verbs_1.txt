@@ -1,0 +1,30 @@
+to talk, 이야기하다
+to call, 전화하다
+to work, 일하다
+to shop, 쇼핑하다
+to have breakfast, 아침 식사하다
+to have lunch, 점심 식사하다
+to have dinner, 저녁 식사하다
+to exercise, 운동하다
+to study, 공부하다
+to do homework, 숙제하다
+to wash one's face, 세수하다
+to like, 좋아하다
+to dislike, 싫어하다
+to go, 가다
+to meet, 만나다
+to receive a visa, 비사를 받다
+to watch a movie, 영화를 바다
+to read, 읽다
+to dance, 춤을 추다
+to drink water, 물을 마시다
+to come, 오다
+to learn, 배우다
+to sleep, 자다
+to wake up, 일어나다
+to teach english, 영어를 가르치다
+to play tennis, 테니스를 치다
+to borrow a book, 책을 빌리다
+to listen to music, 음악을 듣다
+to swim, 수영하다
+to travel, 여행을 하다
