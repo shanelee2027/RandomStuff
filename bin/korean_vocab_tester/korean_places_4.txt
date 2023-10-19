@@ -1,3 +1,9 @@
 palace, 경복궁
+<<<<<<< HEAD
 swimming pool, 수영장
 bookstore, 서점
+=======
+stationary store, 문구점
+embassy, 대사관
+movie theater, 영화관
+>>>>>>> e3fcefc97939a32a2e2f5360606b2ddf0e8daeb4

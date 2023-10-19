@@ -1,0 +1,11 @@
+korea, 한국
+united states, 미국
+united kingdom, 영국
+china, 중국
+vietnam, 베트남
+thailand, 태국
+mexico, 멕시코
+canada, 캐나다
+australia, 호주
+france, 프랑스
+russia, 러시아

@@ -1,3 +1,4 @@
 palace, 경복궁
-swimming pool, 수영장
-bookstore, 서점
+stationary store, 문구점
+embassy, 대사관
+movie theater, 영화관
