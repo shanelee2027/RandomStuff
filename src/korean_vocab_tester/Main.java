@@ -73,7 +73,7 @@ public class Main {
 		
 		System.out.println("try again?");
 		answer = in.nextLine();
-		if(answer.toLowerCase().equals("yes")) {
+		if(answer.toLowerCase().equals("yes") || answer.toLowerCase().equals("ㅛㄷㄴ")) {
 			for(int i = 0; i < 10; i++) {
 				System.out.println();
 			}
