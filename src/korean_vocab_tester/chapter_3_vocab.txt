@@ -1,0 +1,17 @@
+station, 역
+gym, 체육관
+weekend, 주말
+airport, 공항
+department store, 백화점
+taekwondo, 태권도
+tennis court, 테니스장
+to hike, 등산하다
+to be busy, 바쁘다
+also, 그리고
+from/until, 부터/까지
+really, 아주
+to travel, 여행을 하다
+to finish, 끝나다
+to not know, 모르다
+to be fun, 재미있다
+together, 같이
