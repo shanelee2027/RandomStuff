@@ -1,0 +1,41 @@
+above, 위
+below, 아래
+in front of, 앞
+behind, 뒤
+beside, 옆
+inside, 안
+outside, 밖
+between, 사이
+left, 왼쪽
+right, 오른쪽
+park, 공원
+nearby, 근처
+building, 빌딩
+cup, 컵
+there (far), 저기
+wallet, 지갑
+convenience store, 편의점
+to go for a walk, 선책하다
+perhaps, 혹시
+go this way, 이쪽으로 가세요
+university, 대학교
+after, 후
+lounge, 휴게실
+floor, 층
+to arrive, 도착하다
+to learn, 배우다
+to withdraw money, 돈을 찾다
+early, 일찍
+there (close), 거기
+co-worker, 동료
+office, 사무실
+cake, 케이크
+to speak, 말하다
+to give, 주다
+to look/find, 찾다
+to be happy, 기쁘다
+to bring, 가지고 오다
+however (ㄱ), 그런데
+again, 다시
+to send money, 돈을 보내다
+however (ㅎ), 하지만
