@@ -20,4 +20,3 @@ my (regular), 내
 notebook, 공책
 eraser, 지우개
 lemon tea, 레몬차
-

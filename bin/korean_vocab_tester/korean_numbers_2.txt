@@ -1,8 +1,0 @@
-twenty, 스물
-thirty, 서른
-forty, 마흔
-fifty, 쉰
-sixty, 예순
-seventy, 일흔
-eighty, 여든
-ninety, 아흔
